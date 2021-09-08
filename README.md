@@ -1,2 +1,3 @@
-# practicas-prog
- Practicas de programacion
+# Prácticas de programación
+
+Empezando....
